@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+h2{
+    padding: 20px;
+}
+
+p{
+    padding: 20px;
+}
+
+button{
+    background-color: brown;
+    color: white;
+    border-radius: 40%;
+}
+
+button:hover{
+    background-color: bisque;
+    color: black;
+}
